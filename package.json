@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start":"node intro/index.js",
-    "dev":"ts-node intro/index.ts",
+    "start":"node exercise/ts-basic.js",
+    "dev":"ts-node exercise/ts-basic.ts",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
